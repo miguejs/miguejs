@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguejs" alt="miguejs" /> </p>
 
-- 🌱 I’m currently learning **Phoenix, Elixir, Architecture of web applications**
+- 🌱 I’m currently learning **Phoenix, Elixir And  Architecture of web applications**
 
 - 📝 I regulary write articles on [https://medium.com/@imiked](https://medium.com/@imiked)
 
