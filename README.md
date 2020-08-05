@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imiked.mail@gmail.com**
 
-- ⚡ Fun fact **Retro gaming**
+- ⚡ Fun fact **Retro gaming Fan**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
