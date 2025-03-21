@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Garcia</h1>
-<h3 align="center">A passionate full stack developer from Mexico, working at <a href="https://www.icalialabs.com/" target="blank">Icalialabs</a></h3>
+<h3 align="center">A passionate full stack developer from Mexico, working at Fleetio</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miguejs" alt="miguejs" /> </p>
 
